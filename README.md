@@ -1,6 +1,10 @@
-Hi, I am @riley-martin
-
-<!---
-riley-martin/riley-martin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I am @riley-martin
+## Favorite technologies:
+- Linux
+- Rust
+- Webassembly
+## Development Environment:
+- [Arch Linux](https://archlinux.org)
+- [Hyprland](https://hyprland.org)
+- [Kitty](https://github.com/kovidgoyal/kitty)
+- [Helix](https://helix-editor.com) or [Lapce](https://lapce.dev)
